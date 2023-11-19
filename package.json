@@ -1,6 +1,6 @@
 {
   "name": "text-utils",
-  "homepage": "https://sthamanik.github.io/textutils/",
+  "homepage": "https://sthamanik.github.io/text-utils/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
